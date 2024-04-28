@@ -1,0 +1,9 @@
+1) npm init -y
+
+2)npm i -D typescript
+
+3) npm i @types/node
+
+4)npx tsc --init
+
+5) npm i -D ts-node nodemon
