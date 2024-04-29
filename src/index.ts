@@ -76,7 +76,7 @@ getData(COMMENTS_URL)
 //     method: "POST",
 //     redirect: "follow"
 //   };
-  
+  // js fetch
 //   fetch("https://jsonplaceholder.typicode.com/comments")
 //     .then((response) => response.text())
 //     .then((result) => console.log(result))
